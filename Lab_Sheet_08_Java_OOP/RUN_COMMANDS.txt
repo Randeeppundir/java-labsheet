@@ -1,0 +1,14 @@
+Compile:
+cd src
+javac *.java
+
+Run examples:
+java StudentBeanDemo
+java AccountBeanDemo
+java StudentBeanIntrospection
+java CarBeanDemo
+java CircleBeanDemo
+java NetworkInfo
+
+Networking: start the relevant server in one terminal, then client in another.
+See README.md for all exact commands.
