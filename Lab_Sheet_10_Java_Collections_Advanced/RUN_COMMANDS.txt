@@ -1,0 +1,15 @@
+Compile all:
+cd src
+javac *.java
+
+Run:
+java Q01_StudentArrayList
+java Q02_PersonEmployeeLinkedList
+java Q03_BookHashSet
+java Q04_ProductTreeSet
+java Q05_StudentHashMap
+java Q06_ShapeCircleArrayList
+java Q07_CustomerVector
+java Q08_TaskStack
+java Q09_PatientQueue
+java Q10_DepartmentTeacherCollections

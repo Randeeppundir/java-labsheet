@@ -1,0 +1,13 @@
+Compile all:
+cd src
+javac *.java
+
+Examples:
+java Q01_ArrayListPrint
+java Q14_HashSetDuplicates
+java Q17_TreeSetSort
+java Q22_PriorityQueueRemove
+java Q27_SortStudentsComparator
+java Q30_ClearCollections
+
+Run each remaining question using its Qxx class name.
